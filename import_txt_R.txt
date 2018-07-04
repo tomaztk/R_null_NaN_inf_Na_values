@@ -1,0 +1,6 @@
+text1, text2, val1, val2
+,,1,2
+pj1,pj2,22,34
+some text, more text,22,NULL
+NULL, NULL, 11, 12
+NA, NA, NA, NA
